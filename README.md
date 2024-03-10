@@ -63,10 +63,11 @@ This project implements a RESTful API for managing courses, instructors, leads, 
 
     3. **Install Required Node Modules and run the server**: Run the following command to install the required Node.js modules:
 
-            ```bash
-            npm install
-            node server.js
-            ```
+            
+       ```bash
+       npm install
+       node server.js
+       ```
 
 ## API Endpoints
 
