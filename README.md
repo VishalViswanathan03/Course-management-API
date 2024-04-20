@@ -1,4 +1,4 @@
-# API Course Management System for AIRTRIBE
+# API Course Management System
 
 This project implements a RESTful API for managing courses, instructors, leads, comments, and related functionalities using FastAPI, SQLAlchemy, Pydantic, and Alembic. Also includes Express.js as the middleware
 
